@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/shaileshrawat13/Game" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://AshishBatra1989@bitbucket.org/sinnovationHOroscope/horoscope2017.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\shailesh.rawat\AndroidStudioProjects" />
